@@ -4,4 +4,6 @@ phpinfo(); //misalkan
 
 //adam
 
+//hohoho
+
 ?>
