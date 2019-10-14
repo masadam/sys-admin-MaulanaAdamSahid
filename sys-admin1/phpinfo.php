@@ -3,5 +3,5 @@
 phpinfo(); //misalkan
 
 //adam
-
+//tes
 ?>
